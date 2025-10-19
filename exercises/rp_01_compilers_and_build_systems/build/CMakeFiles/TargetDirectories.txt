@@ -1,0 +1,8 @@
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/CMakeFiles/edit_cache.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/CMakeFiles/rebuild_cache.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/src/CMakeFiles/core_library.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/src/CMakeFiles/edit_cache.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/src/CMakeFiles/rebuild_cache.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/executables/CMakeFiles/many_objects_in_stack_example.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/executables/CMakeFiles/edit_cache.dir
+/home/alessandro/University/robotprogramming_2025_26/exercises/rp_01_compilers_and_build_systems/build/executables/CMakeFiles/rebuild_cache.dir
